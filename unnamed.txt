@@ -1,0 +1,5 @@
+mstsc /v:SERVEUR01
+Test-NetConnection -ComputerName SERVEUR01 -Port 3389
+telnet SERVEUR01 3389
+Get-WindowsFeature
+net view \NAS01
