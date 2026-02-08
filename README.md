@@ -5,7 +5,7 @@ I like programming and doing random thing<br>
 -----------
 
 ## My projects :
-- [C-Web](https://github.com/Capitaine-steeve78/C-Web); the futur of the web<br>
+- [C-Web](https://github.com/Capitaine-steeve78/C-Web); a new communication protocol<br>
 - [Fracture](https://github.com/Capitaine-steeve78/fracture); just another programming language<br>
 
 ------------
