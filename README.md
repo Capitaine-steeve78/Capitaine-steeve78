@@ -1,4 +1,4 @@
-## Capitaine_steeve78 : <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=0552FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Capitaine_steeve78)](https://git.io/typing-svg) <br>
 I'm French <br>
 I like programming and doing random thing<br>
 
