@@ -14,7 +14,7 @@ Programming Languages :
     * Python (intermediate]
     * C++ (Learning)
     * C (learning)
-    * TypeScript (lite for Next.js app)
+    * TypeScript (a little for Next.js app)
     
 
 ------------
