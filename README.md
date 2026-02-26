@@ -10,11 +10,11 @@ I like programming and doing random thing<br>
 
 ------------
 
-Programming Languages :
-    * Python (intermediate]
-    * C++ (Learning)
-    * C (learning)
-    * TypeScript (a little for Next.js app)
+Programming Languages : <br>
+    * Python (intermediate] <br>
+    * C++ (Learning) <br>
+    * C (learning) <br>
+    * TypeScript (a little for Next.js app) <br>
     
 
 ------------
