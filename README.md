@@ -9,4 +9,13 @@ I like programming and doing random thing<br>
 - [Fracture](https://github.com/Capitaine-steeve78/fracture); just another programming language<br>
 
 ------------
+
+Programming Languages :
+    * Python (intermediate]
+    * C++ (Learning)
+    * C (learning)
+    * TypeScript (lite for Next.js app)
+    
+
+------------
 [discord profile](https://discord.com/users/1012992849547104316)
