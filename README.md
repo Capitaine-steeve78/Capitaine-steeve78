@@ -9,11 +9,11 @@ I like programming and doing random thing<br>
 - [Fracture](https://github.com/Capitaine-steeve78/fracture); just another programming language<br>
 
 ------------
+## Programming Languages : <br>
 
-Programming Languages : <br>
-    - Python (intermediate) <br>
-    - C++ (Learning) <br>
-    - TypeScript (a little for Next.js app) <br>
+- Python (intermediate) <br>
+- C++ (Learning) <br>
+- TypeScript (a little for Next.js app) <br>
     
 
 ------------
