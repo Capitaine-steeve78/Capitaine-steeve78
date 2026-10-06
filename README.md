@@ -13,7 +13,7 @@ I like programming and doing random thing<br>
 
 - Python (intermediate) <br>
 - Rust (Learning) <br>
-- TypeScript (a little for Next.js app) <br>
+- TypeScript (a little for Next.js & Tauri 2.0 app) <br>
     
 
 ------------
