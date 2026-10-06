@@ -12,7 +12,7 @@ I like programming and doing random thing<br>
 ## Programming Languages : <br>
 
 - Python (intermediate) <br>
-- C++ (Learning) <br>
+- Rust (Learning) <br>
 - TypeScript (a little for Next.js app) <br>
     
 
