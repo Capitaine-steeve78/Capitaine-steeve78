@@ -5,7 +5,7 @@ I like programming and doing random thing<br>
 -----------
 
 ## My projects :
-- [Linux-Auto-Updater](https://github.com/Capitaine-steeve78/Linux-Auto-Updater); a program that automatically update linux system (my first real project !) <br>
+- [Lightning](https://github.com/Capitaine-steeve78/Lightning); [BETA] The fastest software to deploy your project. <br>
 - [Hidden](https://github.com/Capitaine-steeve78); Hidden<br>
 
 ------------
